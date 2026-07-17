@@ -1,0 +1,12 @@
+numpy
+pandas
+scipy
+matplotlib
+scikit-learn
+jax
+numpyro
+flowjax
+requests
+xarray
+netCDF4
+rdata
